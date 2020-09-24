@@ -1,9 +1,9 @@
 ### fall20_nn_dl
 #### 0909_lab01
-##### This is a notebook which introduces some basis of the neural network.
+##### Neural network fundamental part 1
 #### 590-A1
 ##### Lasso & Ridge
 #### 0916_lab02
-##### neural network fundamental part 2
+##### Neural network fundamental part 2
 #### 0923_lab03
-##### explore gradient descent
+##### Explore gradient descent

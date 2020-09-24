@@ -5,3 +5,5 @@
 ##### Lasso & Ridge
 #### 0916_lab02
 ##### neural network fundamental part 2
+#### 0923_lab03
+##### explore gradient descent

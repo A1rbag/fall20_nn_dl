@@ -7,6 +7,8 @@
 ##### Neural network fundamental part 2
 #### 0923_lab03
 ##### Explore gradient descent
+#### 1009_lab04
+##### tf and keras
 
 ### 2) HW
 #### 590-A1

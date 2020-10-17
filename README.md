@@ -9,6 +9,8 @@
 ##### Explore gradient descent
 #### 1009_lab04
 ##### tf and keras
+#### 1016_lab05
+##### keras lab
 
 ### 2) HW
 #### 590-A1

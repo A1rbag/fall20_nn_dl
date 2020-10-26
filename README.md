@@ -15,3 +15,5 @@
 ### 2) HW
 #### 590-A1
 ##### Lasso & Ridge
+#### 590-A2
+##### Gradient Descent

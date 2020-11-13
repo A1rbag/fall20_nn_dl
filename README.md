@@ -11,7 +11,7 @@
 ##### tf and keras
 #### 1016_lab05
 ##### keras lab
-#### 1016_lab06
+#### 1028_lab06
 ##### minist eg
 #### 1113_lab07
 ##### cnn

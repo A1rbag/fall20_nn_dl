@@ -11,6 +11,8 @@
 ##### tf and keras
 #### 1016_lab05
 ##### keras lab
+#### 1113_lab07
+##### cnn
 
 ### 2) HW
 #### 590-A1

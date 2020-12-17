@@ -21,3 +21,5 @@
 ##### Lasso & Ridge
 #### 590-A2
 ##### Gradient Descent
+#### 590-A3
+##### CNN, RNN
